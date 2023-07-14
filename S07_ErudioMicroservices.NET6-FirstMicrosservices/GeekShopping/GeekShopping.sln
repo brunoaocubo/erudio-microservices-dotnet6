@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{BF0441FC-8904-4C1F-8FB7-CD9BA0711952}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{E5204BEB-A129-4DF2-A769-A8D87BE02EB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeekShopping.Web", "GeekShopping.Web\GeekShopping.Web.csproj", "{9E8E86DF-5656-42F7-9334-ACBB9E3B1FC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeekShopping.ProductAPI", "GeekShopping.ProductAPI\GeekShopping.ProductAPI.csproj", "{E4B32388-5C70-4A50-A9AB-C945B74C9802}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E8E86DF-5656-42F7-9334-ACBB9E3B1FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E8E86DF-5656-42F7-9334-ACBB9E3B1FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E8E86DF-5656-42F7-9334-ACBB9E3B1FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E8E86DF-5656-42F7-9334-ACBB9E3B1FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4B32388-5C70-4A50-A9AB-C945B74C9802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4B32388-5C70-4A50-A9AB-C945B74C9802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4B32388-5C70-4A50-A9AB-C945B74C9802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4B32388-5C70-4A50-A9AB-C945B74C9802}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9E8E86DF-5656-42F7-9334-ACBB9E3B1FC5} = {BF0441FC-8904-4C1F-8FB7-CD9BA0711952}
+		{E4B32388-5C70-4A50-A9AB-C945B74C9802} = {E5204BEB-A129-4DF2-A769-A8D87BE02EB6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C548E41-3C69-405F-9169-7FC1C11E3FEA}
+	EndGlobalSection
+EndGlobal
