@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Estudos\\Curso Microservices\\erudio-microservices-dotnet6\\S08_ErudioMicroservices.NET6-FirstMicrosservices\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+      "projectUniqueName": "D:\\Estudos\\Curso Microservices\\erudio-microservices-dotnet6\\S09_ErudioMicroservices.NET6-ConsumingProductMicroserviceOnWeb\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
       "projectName": "GeekShopping.Web",
-      "projectPath": "D:\\Estudos\\Curso Microservices\\erudio-microservices-dotnet6\\S08_ErudioMicroservices.NET6-FirstMicrosservices\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+      "projectPath": "D:\\Estudos\\Curso Microservices\\erudio-microservices-dotnet6\\S09_ErudioMicroservices.NET6-ConsumingProductMicroserviceOnWeb\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
       "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-      "outputPath": "D:\\Estudos\\Curso Microservices\\erudio-microservices-dotnet6\\S08_ErudioMicroservices.NET6-FirstMicrosservices\\GeekShopping\\GeekShopping.Web\\obj\\",
+      "outputPath": "D:\\Estudos\\Curso Microservices\\erudio-microservices-dotnet6\\S09_ErudioMicroservices.NET6-ConsumingProductMicroserviceOnWeb\\GeekShopping\\GeekShopping.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,7 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -70,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
